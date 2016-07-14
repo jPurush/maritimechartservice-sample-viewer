@@ -40,7 +40,7 @@ The following are custom Web App Builder widgets that use the maritime chart ser
 
 
 ## Requirements
-* Web App Builder for ArcGIS 1.1 or greater for the Web App builder widgets. 
+* Web App Builder for ArcGIS (Developer Edition) 1.1 or greater for the Web App builder widgets. 
 * Maritime Chart Service widgets require JS API 3.11 or less. 
 * ArcGIS for Maritime Server 10.3.1
 
